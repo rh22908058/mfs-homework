@@ -1,9 +1,9 @@
 ## 安装插件
 F1输入extension install安装扩展，搜索instant-markdown并安装
-*1 安装beautify插件，格式化html,css,js
-*2 安装jquery code snippets
-*3 安装git history显示gitlog
-*4 安装debugger for chrome调试JS
+* 1 安装beautify插件，格式化html,css,js
+* 2 安装jquery code snippets
+* 3 安装git history显示gitlog
+* 4 安装debugger for chrome调试JS
 ## 代码自动补全
 npm install typings --global安装typings插件。例如typings install express --global --save就可以安装express框架的自动补全插件，用CTRL+SPACE弹出。
 ## GIT使用
